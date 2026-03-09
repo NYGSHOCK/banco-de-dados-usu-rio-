@@ -6,4 +6,3 @@ Usuario {
 	cep_us integer
 	End-us integer
 }
-
